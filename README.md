@@ -12,6 +12,6 @@ Tech Savviness: Higher tech savviness correlates with higher adoption. Promote t
 Financial Inclusion: Higher financial inclusion correlates with higher adoption. Collaborate with financial institutions to promote crypto wallets as part of financial inclusion efforts.
 
 How to run this project:
-1. pip install pandas matplotlib seaborn scikit-learn
+1. pip install pandas matplotlib seaborn scikit-learn numpy
 
-2. python3 crypto_wallet_adoption_analysis.py
+2. python3 CryptoWalletAdoption.py
