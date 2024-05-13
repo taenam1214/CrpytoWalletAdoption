@@ -1,0 +1,6 @@
+Country,Population,Internet_Penetration,Smartphone_Penetration,GDP_Per_Capita,Crypto_Wallet_Adoption,Education_Level,Urbanization,Regulatory_Environment,Tech_Savviness,Financial_Inclusion
+Country A,1000000,75,70,30000,5,12,60,8,7,80
+Country B,500000,65,60,25000,3,10,50,6,5,60
+Country C,1200000,80,75,32000,7,13,70,9,8,85
+Country D,800000,70,65,28000,4,11,55,7,6,75
+Country E,600000,68,63,27000,2,9,48,5,4,55
